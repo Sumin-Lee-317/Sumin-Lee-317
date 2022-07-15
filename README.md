@@ -46,6 +46,7 @@ tfdv.visualize_statistics(lhs_statistics=val_stats, rhs_statistics=train_stats,
 ```
 
 결과는 다음과 같다. 
+
 <img src="https://user-images.githubusercontent.com/72016560/178927062-8f9a2630-8975-4dd2-93d9-1232d58dfada.png" width="600">
 
 예를 들어, 검증 데이터셋(레코드 4,998개)의 누락(missing)된 sub_issue 값 비율이 더 낮다.  
