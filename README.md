@@ -1,98 +1,4 @@
 
-다음은 피처들중 "product"에 대한 구조를 나타낸다. 
-```
-feature {
-   name: "product"
-   type: BYTES
-   domain: "product"
-   presence [
-      min_fraction: 1.0
-      min_count: 1
-      
-   }
-   shape {
-     dim {
-        size: 1
-     }
-   }
-}
-```
-스키마 표시 결과는 다음과 같다. 
-
-<img src="https://user-images.githubusercontent.com/72016560/178867538-c94f082f-3fe2-4159-a1ed-7abe0b05e930.png" width="600">
-
-- Type: 데이터 형식
-- Presence: 피처가 데이터에 꼭 있어야(required) 하는지, 선택사항(optional)인지
-- Valency: 학습 데이터당 필요한 값의 수 (single이면, 학습 예제마다 해당 피처에 정확히 하나의 범주가 있어야한다는 뜻)
-
-
-## 4.3 데이터 인식
-이전 절에서는 데이터 요약 통계와 스키마를 생성하는 방법을 배웠다.  
-이는 설명해주지만, 잠재적인 문제를 발견하지는 못한다.  
-여기서는 TFDV가 데이터에서 문제를 발견하는데 어떻게 도움이 되는지 살펴보겠다.  
-
-### 4.3.1 데이터셋 비교
-
-#### 1. 학습 데이터셋과 검증 데이터셋 비교 (데이터셋 로드 후 시각화)
-
-```python
-train_stats = tfdv.generate_statistics_from_tfrecord(
-    data_location = train_tfrecord_filename)
-val_stats = tfdv.generate_statistics_from_tfrecord(
-    data_location = val_tfrecord_filename)
-
-tfdv.visualize_statistics(lhs_statistics=val_stats, rhs_statistics=train_stats,
-                          lhs_name='VAL_DATASET', rhs_name='TRAIN_DATASET')
-```
-
-결과는 다음과 같다. 
-
-<img src="https://user-images.githubusercontent.com/72016560/178927062-8f9a2630-8975-4dd2-93d9-1232d58dfada.png" width="600">
-
-예를 들어, 검증 데이터셋(레코드 4,998개)의 누락(missing)된 sub_issue 값 비율이 더 낮다.  
-이는 피처가 검증 집합에서 분포를 변경하고 있음을 의미할 수 있다.  
-그리고 시각화에서 모든 레코드의 절반 이상이 sub_issue 정보를 포함하고 있지 않음을 강조하고 있다.  
-sub_issue가 모델 학습에 중요한 피처라면, 데이터 캡처방법을 수정해서 올바른 문제 식별자로 새 데이터를 수집하도록 해야한다. 
-
-#### 2. 이상치 탐지
-
-```python
-anomalies = tfdv.validate_statistics(statistics=val_stats, schema=schema)
-
-tfdv.display_anomalies(anomalies)
-```
-
-주피터 노트북에서 시각화된 이상치 보고서 결과는 다음과 같다.  
-
-<img src="https://user-images.githubusercontent.com/72016560/178931515-0e7f8c09-03b8-4cbc-a5d7-4456e2cd4417.png" width="600">
-
-다음 코드는 default로 설정된 이상치 프로토콜을 보여준다. 여기에는 머신러닝 워크플로를 자동화하는 데 유용한 정보가 포함된다. 
-
-```
-anomaly_info {
-   key: "company"
-   value: {
-      description: "The feature was present in fewer examples than expected."
-      severity: ERROR
-      short_description: "Column dropped"
-      reason {
-         type: FEATURE_TYPE_LOW_FRACTION_PRESENT
-         short_description: "Column dropped"
-         description: "The feature was present in fewer examples than expected."
-      }
-      path {
-         step: "company"
-      }
-   }
-}
-```
-이런 식으로 이상치를 데이터셋에 적합하도록 조정할 수 있다. 
-
-### 4.3.2 스키마 업데이트
-데이터에 관한 도메인 정보에 따라 스키마를 수동으로 설정할 수 있다. 
-
-앞에서 설명한 sub_issue 피처를 사용하여 이 피처가 학습 예제의 90% 이상에 포함되도록 요구해야 한다고 판단되면 스키마를 업데이트하여 이를 반영할 수 있다. 
-
 #### 
 ```python 
 # 스키마를 직렬화된 위치에서 로드
@@ -130,6 +36,22 @@ skew_anomalies = tfdv.validate_statistics(statistics=train_stats,
                                           serving_statistics=serving_stats)
 ```
 
-결과는 다음과 같다. 
+학습 데이터셋과 서빙 데이터셋 간의 데이터 드리프트 시각화의 결과는 다음과 같다.
+
 <img src="https://user-images.githubusercontent.com/72016560/179162612-baaeeda7-2c73-4877-9d49-ea36f604720b.png" width="700">
 
+skew_comparator와 drift_comparator의 L-infinity Norm은 데이터 입력 파이프라인에 문제가 있음을 알려주는 데이터셋 간의 큰 차이를 보여주는 데 유용하다. L-infinity Norm은 단일 숫자만 반환하므로 스키마가 데이터셋 간의 변동을 탐지하는데 더 유용하기도 하다. 
+
+### 4.3.4 편향된 데이터셋
+여기서 편향은 '현실 세계와 동떨어진 데이터' 이다.  
+
+실제 세계를 표본으로 추출하는 방법은 어떤 식으로든 항상 편향된다.  
+데이터셋은 항상 실제 환경의 부분 집합이며, 우리는 모든 세부 정보를 캡처할 수 없기 때문이다. 
+
+#### 선택 편향
+- 데이터셋의 분포가 실제 데이터 분포와 같지 않은 상황
+- TFDV의 시각화를 통해 확인 가능
+- 예) 데이터셋에 범주형 피처로 Gender가 포함되면, 값이 남성 범주에 치우치지 않았는지 확인 가능
+- 만약, 편향이 확인되었고 그 편향이 모델의 성능을 해칠 수 있는 경우에는  
+  다시 돌아가서 더 많은 데이터를 수집하거나 오버/언더샘플링하여 정확한 분포를 얻어야 한다. 
+- 
