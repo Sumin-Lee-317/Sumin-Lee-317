@@ -1,5 +1,4 @@
-
-# Sumin Lee 👋
+# Sumin Lee 👩🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chocosuming@gmail.com)](mailto:chocosuming@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/NaverMail-03c75a?style=flat-square&logo=Naver&logoColor=white&mailto:chocosumin@naver.com)](mailto:chocosumin@naver.com)
@@ -8,26 +7,24 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/)](https://www.notion.so/)
 
 
+*Hi👋🏻 I am a student studying AI & BigData at Daegu Catholic University since 2020.*
+
 <br>
-안녕하세요.  
-인공지능&빅데이터 관련 공부를 하고있는 대구가톨릭대학교 학생입니다.  
-
-
-
-
 
 ## Experience
-- **플래시21** - 기획경영부 여름 계절제 현장실습생 (_2021.7.5 ~ 2021.7.30_)
+- **플래시21** - 기획경영부 여름계절제 현장실습생 (_2021.7.5 ~ 2021.7.30_)
 - **한국알파시스템** - 하계방학 현장실습생 (_2021.8.2 ~ 2021.8.13_)
 - **ETRI** - 지능화융합연구소 농축수산지능화연구센터 하계연구연수생 (_2022.7.1 ~ 2022.8.31_)
 
-<br><br>
+<br>
 
 ## Project
+| Period | Project | Content |
+| :----: | :-----: | :-----: |
 
-<br><br>
+<br>
 
-## Learning / Tech
+## Tech 
 
 - **Programming Language** : ![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=f7df1e)
 ![R Badge](https://img.shields.io/badge/-R-276dc3?style=flat-square&logo=R&logoColor=white) ![C Badge](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white)
@@ -49,13 +46,16 @@
 <br>
 
 ## Certificate
-- **GTQ 1급**
-- **
+- 컴퓨터 활용능력 2급
+- 그래픽기술자격(GTQ)1급
+- MOS 2016 Powerpoint(Core)
+- ITQ(OAMaster)
+- ITQ한글파워포인트, ITQ한글, ITQ한글엑셀 (all A등급)
 
-<br><br>
+<br>
 
 ## Contact 💬 
-![KakaoTalk Badge](https://img.shields.io/badge/-KakaoTalk-ffcd00?style=flat-square&logo=KakaoTalk&logoColor=white)
+[![KakaoTalk Badge](https://img.shields.io/badge/-KakaoTalk-ffcd00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sZ7qfvse)](https://open.kakao.com/o/sZ7qfvse)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
 [![Naver Badge](https://img.shields.io/badge/Blog-1de5b0?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com)](https://blog.naver.com)
 [![Riot Games Badge](https://img.shields.io/badge/League_Of_Legend-d32936?style=flat-square&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)](https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)
