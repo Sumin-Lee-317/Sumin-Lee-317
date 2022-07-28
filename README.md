@@ -37,6 +37,7 @@
 - **Tool & etc.** : ![Linux Badge](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=black)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=Android&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7f52Ff?style=flat-square&logo=Kotlin&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![AmazonAWS Badge](https://img.shields.io/badge/-Amazon_AWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=fba457)
@@ -54,7 +55,7 @@
 
 <br>
 
-## Contact 💬 
+## 💬 Contact  
 [![KakaoTalk Badge](https://img.shields.io/badge/-KakaoTalk-ffcd00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sZ7qfvse)](https://open.kakao.com/o/sZ7qfvse)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
 [![Naver Badge](https://img.shields.io/badge/Blog-1de5b0?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com)](https://blog.naver.com)
