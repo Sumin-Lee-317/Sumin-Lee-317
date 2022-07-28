@@ -4,14 +4,13 @@
 [![Naver Badge](https://img.shields.io/badge/NaverMail-03c75a?style=flat-square&logo=Naver&logoColor=white&mailto:chocosumin@naver.com)](mailto:chocosumin@naver.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)](https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Sumin-Lee-317)](https://github.com/Sumin-Lee-317)
-[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/)](https://www.notion.so/)
-
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/sumin-lee-317)](https://www.notion.so/sumin-lee-317)
 
 
 https://img.shield.io/badge/작성할 단어-색상?스타일옵션
 <br>
 안녕하세요.  
-인공지능 & 빅데이터 관련 공부를 하고있는 대구가톨릭대학교 학생입니다.  
+인공지능&빅데이터 관련 공부를 하고있는 대구가톨릭대학교 학생입니다.  
 
 
 
@@ -19,7 +18,7 @@ https://img.shield.io/badge/작성할 단어-색상?스타일옵션
 
 ## Experience
 - **플래시21** - 기획경영부 여름 계절제 현장실습생 (_2021.7.5 ~ 2021.7.30_)
-- **한국알파시스템** - 하계방학 현장실습생 (_2021.7.1 ~ 2021.8.31_)
+- **한국알파시스템** - 하계방학 현장실습생 (_2021.8.2 ~ 2021.8.13_)
 - **ETRI** - 지능화융합연구소 농축수산지능화연구센터 하계연구연수생 (_2022.7.1 ~ 2022.8.31_)
 
 <br><br>
@@ -48,6 +47,6 @@ https://img.shield.io/badge/작성할 단어-색상?스타일옵션
 
 ## Contact 
 ![KakaoTalk Badge](https://img.shields.io/badge/-KakaoTalk-ffcd00?style=flat-square&logo=KakaoTalk&logoColor=white)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
 [![Naver Badge](https://img.shields.io/badge/Blog-1de5b0?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com)](https://blog.naver.com)
-[![Riot Games Badge](https://img.shields.io/badge/LOL-d32936?style=flat-square&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)](https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)
+[![Riot Games Badge](https://img.shields.io/badge/League_Of_Legend-d32936?style=flat-square&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)](https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)
