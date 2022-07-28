@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)](https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Sumin-Lee-317)](https://github.com/Sumin-Lee-317)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/)](https://www.notion.so/)
+[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@sumin_lee_317)](https://velog.io/@sumin_lee_317)
 
 
 *Hi👋🏻 I am a student studying AI & BigData at Daegu Catholic University since 2020.*
