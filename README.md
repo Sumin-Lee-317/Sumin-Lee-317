@@ -30,18 +30,24 @@ https://img.shield.io/badge/작성할 단어-색상?스타일옵션
 ## Learning / Tech
 
 - **Programming Language** : ![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white) ![R Badge](https://img.shields.io/badge/-R-276dc3?style=flat-square&logo=R&logoColor=white) ![C Badge](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white)
-- **Web Front-End** :    
+- **Web Front-End** : ![HTML Badge](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=CSS3&logoColor=white)
 - **Web Back-End** : ![Django Badge](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white)
 - **UI/UX Design** : 
-- **Tool & etc.** : ![Docker Badge](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
+- **Tool & etc.** : ![Linux Badge](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=Android&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white)
 ![AmazonAWS Badge](https://img.shields.io/badge/-Amazon_AWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/-Arduino-00979d?style=flat-square&logo=Arduino&logoColor=white)
 ![AdobePhotoshop Badge](https://img.shields.io/badge/-AdobePhotoshop-31a8ff?style=flat-square&logo=AdobePhotoshop&logoColor=white)
+
+<br><br>
+
+## Certificate
+- **GTQ 1급**
+- **
 
 <br><br>
 
