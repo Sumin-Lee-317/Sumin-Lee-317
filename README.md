@@ -57,6 +57,6 @@
 
 ## 💬 Contact  
 [![KakaoTalk Badge](https://img.shields.io/badge/-KakaoTalk-ffcd00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sZ7qfvse)](https://open.kakao.com/o/sZ7qfvse)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sumin__ee_/)](https://www.instagram.com/sumin__ee_/)
 [![Naver Badge](https://img.shields.io/badge/Blog-1de5b0?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com)](https://blog.naver.com)
 [![Riot Games Badge](https://img.shields.io/badge/League_Of_Legend-d32936?style=flat-square&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)](https://www.op.gg/summoners/kr/%EB%8B%A4%EB%9E%8C%EC%A5%90%ED%81%AC%EB%A9%B4%EC%B2%AD%EC%84%A4%EB%AA%A8)
