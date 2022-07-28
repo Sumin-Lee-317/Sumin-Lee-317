@@ -1,7 +1,7 @@
 # Sumin Lee 👩🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chocosuming@gmail.com)](mailto:chocosuming@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/NaverMail-03c75a?style=flat-square&logo=Naver&logoColor=white&mailto:chocosumin@naver.com)](mailto:chocosumin@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chocosuming@gmail.com)](mailto:chocosuming@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)](https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Sumin-Lee-317)](https://github.com/Sumin-Lee-317)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/)](https://www.notion.so/)
