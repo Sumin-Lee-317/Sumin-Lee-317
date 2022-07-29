@@ -9,7 +9,7 @@
 
 *Hi👋🏻 I am a student studying AI & BigData at Daegu Catholic University since 2020.*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin-Lee-317&show_icons=true&theme=dracula&?count_private=true)
 
 <br>
