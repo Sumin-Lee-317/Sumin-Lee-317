@@ -9,7 +9,7 @@
 
 *Hi👋🏻 I am a student studying AI & BigData at Daegu Catholic University since 2020.*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Sumin-Lee-317/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sumin-Lee-317&repo=github-readme-stats)](https://github.com/Sumin-Lee-317/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
