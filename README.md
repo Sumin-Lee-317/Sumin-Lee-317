@@ -10,13 +10,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSumin-Lee-317&count_bg=%23555555&title_bg=%23949EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 *Hi👋🏻 I am a student studying AI & BigData at Daegu Catholic University since 2020.*
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317)](https://github.com/Sumin-Lee-317/github-readme-stats)
+
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) | ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin-Lee-317&show_icons=true&theme=buefy&?count_private=true) |
-| - | - |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317)](https://github.com/Sumin-Lee-317/github-readme-stats)
 
 <br>
 
