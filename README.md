@@ -1,5 +1,3 @@
-
-
 # 💎 Sumin Lee 🌱
 [![Naver Badge](https://img.shields.io/badge/NaverMail-03c75a?style=flat&logo=Naver&logoColor=white&mailto:chocosumin@naver.com)](mailto:chocosumin@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:chocosuming@gmail.com)](mailto:chocosuming@gmail.com)
@@ -13,15 +11,14 @@
 
 <br>
 
-![Top Langs](https://Sumin-Lee-317/api/top-langs/?username=Sumin-Lee-317&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317&layout=compact&&theme=buefy&count_private=true)](https://github.com/Sumin-Lee-317/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317&count_private=true)](https://github.com/Sumin-Lee-317/github-readme-stats)
-
 <br>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317&layout=compact&theme=buefy&count_private=true) | ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin-Lee-317&show_icons=true&theme=buefy&?count_private=true) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317&layout=compact&&theme=buefy&count_private=true)](https://github.com/Sumin-Lee-317/github-readme-stats) | ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin-Lee-317&show_icons=true&theme=buefy&?count_private=true) |
 | - | - |
 
 <br>
