@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)](https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/Sumin-Lee-317)](https://github.com/Sumin-Lee-317)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/)](https://www.notion.so/)
-[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@sumin_lee_317)](https://velog.io/@sumin_lee_317)
+[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/)](https://velog.io/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSumin-Lee-317&count_bg=%23555555&title_bg=%23949EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 *Hi👋🏻 I am a student studying AI & BigData at Daegu Catholic University since 2020.*
