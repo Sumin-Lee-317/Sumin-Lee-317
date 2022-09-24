@@ -45,7 +45,9 @@
 ![AdobePhotoshop Badge](https://img.shields.io/badge/-AdobePhotoshop-31a8ff?style=flat&logo=AdobePhotoshop&logoColor=white)
 
 <br>
+
 ---
+
 <br>
 
 ## 📚 Experience
