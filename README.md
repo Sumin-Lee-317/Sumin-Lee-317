@@ -1,4 +1,4 @@
-# 💎 Sumin Lee 🌱
+# 🌱 Sumin Lee 
 [![Naver Badge](https://img.shields.io/badge/NaverMail-03c75a?style=flat&logo=Naver&logoColor=white&mailto:chocosumin@naver.com)](mailto:chocosumin@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:chocosuming@gmail.com)](mailto:chocosuming@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)](https://www.linkedin.com/in/%EC%88%98%EB%AF%BC-%EC%9D%B4-8631b61ab/)
@@ -44,6 +44,8 @@
 　　　　　　![Arduino Badge](https://img.shields.io/badge/-Arduino-00979d?style=flat&logo=Arduino&logoColor=white)
 ![AdobePhotoshop Badge](https://img.shields.io/badge/-AdobePhotoshop-31a8ff?style=flat&logo=AdobePhotoshop&logoColor=white)
 
+<br>
+---
 <br>
 
 ## 📚 Experience
