@@ -9,20 +9,18 @@
 
 *Hi👋🏻 I am a student studying AI & BigData*
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
-<br>
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin-Lee-317&layout=compact&&theme=buefy&count_private=true)](https://github.com/Sumin-Lee-317/github-readme-stats) | ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin-Lee-317&show_icons=true&theme=buefy&?count_private=true) |
-| - | - |
 
 <br>
 
 ## 📌 Project
 | Period | Project | Content |
-| :----: | :-----: | :-----: |
+| :----: | :----- | :-----: |
+| 2023 | Music Recommendation System based on Spatial Environment | Grand Prize |
+| 2022 | Development of Face Recognition Smart Door-lock Application |  |
+| 2022 | A Study on Personal Training Service for Yoga Posture Correction | Bronze Prize |
+| 2022 | A Study on UHF Electromagnetic Wave Modulation Signal Classification Based on Deep Learning Model | Bronze Prize  |
+| 2022 | Deep Learning-based Hand-gesture Recognition System for Computer control | Silver Prize |
+| 2021 | Analysis of The Percentage of Flu Deaths among All Deaths by factor| Silver Prize|
 
 <br>
 
@@ -34,14 +32,13 @@
 - **Web Front-End** : ![HTML Badge](https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=CSS3&logoColor=white)
 - **Web Back-End** : ![Django Badge](https://img.shields.io/badge/-Django-092e20?style=flat&logo=Django&logoColor=white)
-- **Tools & etc.** : ![Linux Badge](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=Linux&logoColor=black)
+- **Tools I've tried** : ![Linux Badge](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=Linux&logoColor=black)
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=Docker&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/-Android-3ddc84?style=flat&logo=Android&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7f52Ff?style=flat&logo=Kotlin&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat&logo=PostgreSQL&logoColor=white)
 ![AmazonAWS Badge](https://img.shields.io/badge/-Amazon_AWS-232f3e?style=flat&logo=AmazonAWS&logoColor=fba457)  
-　　　　　　![Arduino Badge](https://img.shields.io/badge/-Arduino-00979d?style=flat&logo=Arduino&logoColor=white)
+　　　　　　　![Arduino Badge](https://img.shields.io/badge/-Arduino-00979d?style=flat&logo=Arduino&logoColor=white)
 ![AdobePhotoshop Badge](https://img.shields.io/badge/-AdobePhotoshop-31a8ff?style=flat&logo=AdobePhotoshop&logoColor=white)
 
 <br>
@@ -64,6 +61,7 @@
 - MOS 2016 Powerpoint(Core)
 - ITQ(OAMaster)
 - ITQ한글파워포인트, ITQ한글, ITQ한글엑셀 (all A등급)
+- Azure AI Fundamentals (AI-900)
 
 <br>
 
