@@ -54,11 +54,12 @@
 - **플래시21** - 기획경영부 여름계절제 현장실습생 (_2021.7.5 ~ 2021.7.30_)
 - **한국알파시스템** - 하계방학 현장실습생 (_2021.8.2 ~ 2021.8.13_)
 - **ETRI** - 지능화융합연구소 농축수산지능화연구센터 하계연구연수생 (_2022.7.1 ~ 2022.8.31_)
+- **SW Winter Engineering International Programs (EIP)** - UNLV short term student (_2023.12.31 ~ 2023.01.28_)
 
 <br>
 
 ## 📜 Certificate
-- 컴퓨터 활용능력 2급
+- 컴퓨터 활용능력 1급
 - 그래픽기술자격(GTQ)1급
 - MOS 2016 Powerpoint(Core)
 - ITQ(OAMaster)
