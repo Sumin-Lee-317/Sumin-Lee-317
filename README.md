@@ -16,7 +16,7 @@
 | Period | Project | Content |
 | :----: | :----- | :-----: |
 | 2023 | Music Recommendation System based on Spatial Environment | Grand Prize |
-| 2022 | Development of Face Recognition Smart Door-lock Application |  |
+| 2022 | Development of Face Recognition Smart Door-lock Application | Gold Prize |
 | 2022 | A Study on Personal Training Service for Yoga Posture Correction | Bronze Prize |
 | 2022 | A Study on UHF Electromagnetic Wave Modulation Signal Classification Based on Deep Learning Model | Bronze Prize  |
 | 2022 | Deep Learning-based Hand-gesture Recognition System for Computer control | Silver Prize |
@@ -52,12 +52,12 @@
 <br>
 
 ## 📜 Certificate
-- 컴퓨터 활용능력 1급
-- 그래픽기술자격(GTQ)1급
+- 컴퓨터활용능력 1급, 2급
+- ITQ 한글파워포인트, 아래한글, 한글엑셀 (A등급)
+- GTQ(그래픽기술자격)1급
 - MOS 2016 Powerpoint(Core)
-- ITQ(OAMaster)
-- ITQ한글파워포인트, ITQ한글, ITQ한글엑셀 (all A등급)
-- Azure AI Fundamentals (AI-900)
+- AI-900: Microsoft Azure AI Fundamentals (AI-900)
+- ADsP(데이터분석준전문가)
 
 <br>
 
