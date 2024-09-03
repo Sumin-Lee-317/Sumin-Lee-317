@@ -63,6 +63,5 @@
 
 ## 💬 Contact  
 [![KakaoTalk Badge](https://img.shields.io/badge/-KakaoTalk-ffcd00?style=flat&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sZ7qfvse)](https://open.kakao.com/o/sZ7qfvse)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sumin__ee_/)](https://www.instagram.com/sumin__ee_/)
 [![Naver Badge](https://img.shields.io/badge/Blog-1de5b0?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com)](https://blog.naver.com)
 
